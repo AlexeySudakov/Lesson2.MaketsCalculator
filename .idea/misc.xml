@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Programming/AndroidStudioProjects/Lesson2.MaketsCalculator/app/src/main/res/layout/activity_calc_new_frame.xml" value="0.67" />
+        <entry key="..\:/Programming/AndroidStudioProjects/Lesson2.MaketsCalculator/app/src/main/res/layout/activity_grid_cal.xml" value="0.25" />
         <entry key="..\:/Programming/AndroidStudioProjects/Lesson2.MaketsCalculator/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
         <entry key="..\:/Programming/AndroidStudioProjects/Lesson2MaketsCalculator/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
       </map>
